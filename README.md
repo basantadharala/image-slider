@@ -1,2 +1,2 @@
 # image-slider
-Created with CodeSandbox
+Live demo:https://gwvrrx.csb.app/
